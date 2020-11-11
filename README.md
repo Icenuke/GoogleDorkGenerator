@@ -4,7 +4,7 @@
 
 ## How to use:
 > Dork [-h] word1 word2 "words group" ...
-> * -h: 	Show this message
+> * -h: 	Show this message<br>
 > 2 Files with the combination of dork are generated
 
 *Developed by Icenuke.* <br>

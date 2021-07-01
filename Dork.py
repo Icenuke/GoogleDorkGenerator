@@ -148,4 +148,4 @@ if __name__ == "__main__":
         # if error then show help message
         HelpUsage()
 
-# https://www.google.es/search?q=ext%3Asql+filetype%3Asql+%22database%22+%22password%22+%2B%22admin%22+-site%3Agithub.com
+
